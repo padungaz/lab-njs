@@ -18,7 +18,11 @@
   },
   "homepage": "https://github.com/padungaz/lab-njs#readme",
   "dependencies": {
-    "express": "^4.18.2"
+    "body-parser": "^1.20.1",
+    "ejs": "^3.1.9",
+    "express": "^4.18.2",
+    "express-handlebars": "^7.1.2",
+    "pug": "^3.0.2"
   },
   "devDependencies": {
     "nodemon": "^3.0.3"
